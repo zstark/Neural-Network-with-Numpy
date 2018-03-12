@@ -1,1 +1,1 @@
-# Neural-Network-with-Numpy
+# Neural-Network-using-only-Numpy-in-Python
